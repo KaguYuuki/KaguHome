@@ -71,7 +71,7 @@ html {
     color: #333;
 }
 
-@media (max-width: 764px) {
+@media (max-width: 768px) {
     body {
         padding: 0;
     }
